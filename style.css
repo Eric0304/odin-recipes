@@ -1,11 +1,22 @@
-h1 {
+h1.index {
     font-size: 50px;
     text-align: center;
     background-color: aqua;
 }
 
-ul {
+ul.index {
     font-size: 35px;
     color: red;
     background-color: yellow;
+}
+
+#pancake {
+    width: 925px;
+    height: auto;
+}
+
+ul.pancake,
+h1.pancake {
+    color: blueviolet;
+    text-align: center;
 }
